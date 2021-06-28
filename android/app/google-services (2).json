@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "687688685632",
+    "project_id": "biawazo",
+    "storage_bucket": "biawazo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687688685632:android:59557410baa926ddd527a5",
+        "android_client_info": {
+          "package_name": "com.example.biawazo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687688685632-d6depga9kgc55drqmje4l0l74bl1agk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.biawazo",
+            "certificate_hash": "8235f2c1acb0c6487aabc8b72fca8363a3468130"
+          }
+        },
+        {
+          "client_id": "687688685632-ivtjrttockfm30h12udeesuifnji74ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq07sZr1jzDuVzSg3t_jpPZhXUv2uPgTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687688685632-ivtjrttockfm30h12udeesuifnji74ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
